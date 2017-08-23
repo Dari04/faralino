@@ -2,183 +2,183 @@
 /*	MAIN COLOR
 /*-----------------------------------------------------------------------------------*/
 a {
-    color: #45be84;
+    color: #cca384;
 }
 a:hover,
 a:focus {
-    color: #45be84;
+    color: #cca384;
 }
 .link-effect:hover {
-    color: #45be84
+    color: #cca384
 }
 .link-effect:after {
-    background-color: #45be84;
+    background-color: #cca384;
 }
 .post-title a:hover {
-    color: #45be84
+    color: #cca384
 }
 .section-title.text-center:after {
-    color: #45be84;
+    color: #cca384;
 }
 .meta,
 .meta a,
 .more {
-    color: #45be84;
+    color: #cca384;
 }
 ul.circled li:before {
-    color: #45be84;
+    color: #cca384;
 }
 .contact-info i {
-    color: #45be84;
+    color: #cca384;
 }
 .contact-info a:hover {
-    color: #45be84
+    color: #cca384
 }
 .btn,
 .vanilla-form label.custom-select span {
-    background: #45be84;
+    background: #cca384;
 }
 .navbar .nav > li.current > a {
-    box-shadow: 0 2px 0 #45be84
+    box-shadow: 0 2px 0 #cca384
 }
 .navbar .dropdown-menu {
-    border-top: 2px solid #45be84 !important;
+    border-top: 2px solid #cca384 !important;
 }
 .navbar .top-bar a:hover {
-	color: #45be84;
+	color: #cca384;
 }
 .navbar.fixed .navbar-nav > li > a:focus,
 .navbar.fixed .nav > li > a:hover,
 .navbar.fixed .nav > li.current > a,
 .navbar.solid .nav > li > a:hover {
-    color: #45be84 !important
+    color: #cca384 !important
 }
 .cbp-filter-container .cbp-filter-item:hover {
-    color: #45be84
+    color: #cca384
 }
 .cbp-filter-container .cbp-filter-item.cbp-filter-item-active {
-    box-shadow: 0 2px 0 #45be84
+    box-shadow: 0 2px 0 #cca384
 }
 .item-details li strong {
-    color: #45be84;
+    color: #cca384;
 }
 .timeline .date-title span {
-    background: #45be84;
+    background: #cca384;
 }
 .timeline-item .post-content:before {
-    background: #45be84;
+    background: #cca384;
 }
 .sidebox a:hover {
-    color: #45be84
+    color: #cca384
 }
 .widget .post-list h5 a:hover {
-    color: #45be84
+    color: #cca384
 }
 .widget .post-list .meta em a:hover {
-    color: #45be84
+    color: #cca384
 }
 .progress-list li em {
-    color: #45be84;
+    color: #cca384;
 }
 .progress.plain {
-    border: 1px solid #45be84;
+    border: 1px solid #cca384;
 }
 .progress.plain .bar {
-    background: #45be84;
+    background: #cca384;
 }
 .icon-large {
-    color: #45be84;
+    color: #cca384;
 }
 .tabs-top .tab a:hover,
 .tabs-top .tab.active a {
-    color: #45be84
+    color: #cca384
 }
 .tabs-top.bordered .tab {
-    border: 2px solid #45be84;
+    border: 2px solid #cca384;
 }
 .tabs-top.bordered .tab a {
-    color: #45be84;
+    color: #cca384;
 }
 .tabs-top.bordered .tab a:hover,
 .tabs-top.bordered .tab.active a {
-    background: #45be84;
+    background: #cca384;
 }
 .panel-group .panel-active a,
 .panel-group .panel-title > a:hover {
-    color: #45be84
+    color: #cca384
 }
 .panel-group .panel-heading .panel-title:hover,
 .panel-group .panel-active .panel-heading .panel-title {
-    color: #45be84
+    color: #cca384
 }
 .bordered .panel-heading .panel-title {
-    color: #45be84;
-    border: 2px solid #45be84;
+    color: #cca384;
+    border: 2px solid #cca384;
 }
 .bordered .panel-heading .panel-title:hover {
-    background: #45be84;
-    border: 2px solid #45be84;
+    background: #cca384;
+    border: 2px solid #cca384;
 }
 .bordered .panel-title > a {
-    color: #45be84
+    color: #cca384
 }
 .bordered .panel-title:hover,
 .bordered .panel-active .panel-heading .panel-title,
 .bordered .panel-active .panel-heading .panel-title:hover {
-    border: 2px solid #45be84;
-    background: #45be84;
+    border: 2px solid #cca384;
+    background: #cca384;
 }
 .price {
-    color: #45be84;
+    color: #cca384;
 }
 .tooltip-inner {
-    background-color: #45be84;
+    background-color: #cca384;
 }
 .tooltip.top .tooltip-arrow,
 .tooltip.top-left .tooltip-arrow,
 .tooltip.top-right .tooltip-arrow {
-    border-top-color: #45be84
+    border-top-color: #cca384
 }
 .tooltip.right .tooltip-arrow {
-    border-right-color: #45be84
+    border-right-color: #cca384
 }
 .tooltip.left .tooltip-arrow {
-    border-left-color: #45be84
+    border-left-color: #cca384
 }
 .tooltip.bottom .tooltip-arrow,
 .tooltip.bottom-left .tooltip-arrow,
 .tooltip.bottom-right .tooltip-arrow {
-    border-bottom-color: #45be84
+    border-bottom-color: #cca384
 }
 #comments .info h2 a:hover {
-    color: #45be84
+    color: #cca384
 }
 .vanilla-form input[type="radio"]:focus + span,
 .vanilla-form input[type="checkbox"]:focus + span,
 .vanilla-form input[type="radio"]:active + span,
 .vanilla-form input[type="checkbox"]:active + span {
-    border-color: #45be84
+    border-color: #cca384
 }
 .vanilla-form input[type="radio"] + span::after {
-    background-color: #45be84;
-    border-color: #45be84;
+    background-color: #cca384;
+    border-color: #cca384;
 }
 .vanilla-form input[type="radio"]:checked + span,
 .vanilla-form input[type="checkbox"]:checked + span {
-    border: 1px solid #45be84
+    border: 1px solid #cca384
 }
 .vanilla-form input[type="checkbox"] + span::after {
-    border: 0 solid #45be84;
+    border: 0 solid #cca384;
 }
 .share-affix .icon-s-email:hover {
-    color: #45be84
+    color: #cca384
 }
 @media (max-width: 991px) {
 	.navbar .nav > li.current > a,
 	.navbar .nav > li > a:hover,
 	.navbar .navbar-nav .open .dropdown-menu > li > a:hover,
 	.navbar .navbar-nav .open .dropdown-menu > li > a:focus {
-	    color: #45be84 !important
+	    color: #cca384 !important
 	}
 }
 /*-----------------------------------------------------------------------------------*/
