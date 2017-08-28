@@ -118,6 +118,9 @@ iframe {
 	    transform: rotate(359deg)
 	}
 }
+.mb-15{
+    margin-bottom: 15px;
+}
 #preloader {
     position: fixed;
     top: 0;
@@ -261,7 +264,7 @@ h4.post-title {
     margin-bottom: 3px
 }
 .post-title a {
-    color: #434343
+    color: #FFF;
 }
 .post-title a:hover {
     color: #cca384
@@ -622,9 +625,9 @@ footer ul.circled li:before {
     text-transform: uppercase;
 }
 .box {
-    background: #FFF;
+    background: #000;
     border: 1px solid rgba(0,0,0,0.1);
-    padding: 30px;
+    padding: 20px;
 }
 .cbp .box {
     padding: 23px 20px 10px 20px;
@@ -4411,4 +4414,16 @@ margin: -7px 23px;
 
 #banner-contacto {
     background-image: url(http://www.faralinocalderon.com/img/contacto.jpg);
+}
+.gallery-image{
+    width: 100%;
+}
+#texto-titulo {
+    opacity: 0.7;
+    font-family: Impact;
+    text-align: left;
+    color: #fff;
+    font-size: 48pt;
+    padding-left: 65px;
+    padding-top: 100px;
 }
