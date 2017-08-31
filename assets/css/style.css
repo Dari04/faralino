@@ -560,6 +560,10 @@ footer ul.circled li:before {
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
     color: #cca384!important;
 }
+.btn:hover, .btn:focus, .btn.focus {
+    color: #cca384!important;
+    text-decoration: none;
+}
 .navbar .navbar-brand {
     padding: 0;
     float: none;
