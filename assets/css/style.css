@@ -1905,58 +1905,58 @@ figure a .text-overlay .info span {
 }
 
 #banner-galeria {
-    background-image: url(http://www.faralinocalderon.com/img/galeria.jpg);
+    background-image: url(../images/backgrounds/galeria.jpg);
 }
 
 #banner-fara {
-    background-image: url(http://www.faralinocalderon.com/img/faralino.jpg);
+    background-image: url(../images/backgrounds/faralino.jpg);
 }
 
 #banner-editorial {
-    background-image: url(http://www.faralinocalderon.com/img/editorial.jpg);
+    background-image: url(../images/backgrounds/editorial.jpg);
 }
 
 #banner-novedades {
-    background-image: url(http://www.faralinocalderon.com/img/novedades.jpg);
+    background-image: url(../images/backgrounds/novedades.jpg);
 }
 
 #banner-contacto {
-    background-image: url(http://www.faralinocalderon.com/img/contacto.jpg);
+    background-image: url(../images/backgrounds/contacto.jpg);
 }
 #banner-peru {
-    background-image: url(http://www.faralinocalderon.com/img/peru.jpg);
+    background-image: url(../images/gallery/arqueologia/countries/peru/backgrounds/peru.jpg);
 }
 #banner-cusco {
-    background-image: url(http://www.faralinocalderon.com/img/peru.jpg);
+    background-image: url(../images/gallery/arqueologia/countries/peru/backgrounds/peru.jpg);
 }
 #banner-puno {
-    background-image: url(http://www.faralinocalderon.com/img/puno.jpg);
+    background-image: url(../images/gallery/arqueologia/countries/peru/backgrounds/puno.jpg);
 }
 #banner-caral {
-    background-image: url(http://www.faralinocalderon.com/img/caral.jpg);
+    background-image: url(../images/gallery/arqueologia/countries/peru/backgrounds/caral.jpg);
 }
 #banner-trujillo {
-    background-image: url(http://www.faralinocalderon.com/img/trujillo.jpg);
+    background-image: url(../images/gallery/arqueologia/countries/peru/backgrounds/trujillo.jpg);
 }
 #banner-chiclayo {
-    background-image: url(http://www.faralinocalderon.com/img/galeria.jpg);
+    background-image: url(../images/backgrounds/galeria.jpg);
 }
 #banner-cajamarca {
-    background-image: url(http://www.faralinocalderon.com/img/cajamarca.jpg);
+    background-image: url(../images/gallery/arqueologia/countries/peru/backgrounds/cajamarca.jpg);
 }
 #banner-chachapoyas {
-    background-image: url(http://www.faralinocalderon.com/img/galeria.jpg);
+    background-image: url(../images/backgrounds/galeria.jpg);
 }
 #banner-pachacamac {
-    background-image: url(http://www.faralinocalderon.com/img/galeria.jpg);
+    background-image: url(../images/backgrounds/galeria.jpg);
 }
 #banner-huaraz {
-    background-image: url(http://www.faralinocalderon.com/img/huaraz.jpg);
+    background-image: url(../images/gallery/arqueologia/countries/peru/backgrounds/huaraz.jpg);
 }
 
 .gallery-image{
     width: 100%;
-    height:320px;
+    height:auto;
 }
 #texto-titulo {
     font-size: 3.6Em;
